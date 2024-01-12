@@ -1,0 +1,77 @@
+{
+    "firstName": "Berat",
+    "secondName": "Kurt",
+    "email": "brokbro052@gmail.com",
+    "role": "Full-Stack Developer",
+    "introductionText": "I am creating compatible, user-oriented and innovative applications for both iOS and Android with Flutter.",
+    "socialProfile": {
+        "instagram": "https://www.instagram.com/beratkurttx/",
+        "dribble": "",
+        "linkedin": "https://www.linkedin.com/in/berat-kurt-958b6a202/",
+        "github": "https://github.com/zekkontro",
+        "youtube": ""
+    },
+    "githubRepos": [
+        {
+            "title": "shortel",
+            "stars": 1,
+            "description": "Shortel Link k\u0131salt\u0131c\u0131",
+            "language": "Dart",
+            "url": "https://github.com/zekkontro/shortel",
+            "forks": 0
+        },
+        {
+            "title": "sohbetapp",
+            "stars": 0,
+            "description": null,
+            "language": "Dart",
+            "url": "https://github.com/zekkontro/sohbetapp",
+            "forks": 1
+        },
+        {
+            "title": "application_landing_page",
+            "stars": 1,
+            "description": null,
+            "language": "Dart",
+            "url": "https://github.com/zekkontro/application_landing_page",
+            "forks": 0
+        },
+        {
+            "title": "folioport",
+            "stars": 0,
+            "description": null,
+            "language": "Dart",
+            "url": "https://github.com/zekkontro/folioport",
+            "forks": 0
+        },
+        {
+            "title": "flutter-packages-api",
+            "stars": 0,
+            "description": "Get information flutter packages",
+            "language": "Python",
+            "url": "https://github.com/zekkontro/flutter-packages-api",
+            "forks": 0
+        },
+        {
+            "title": "youtube_cc",
+            "stars": 2,
+            "description": "Dart package with closed captions for Youtube videos",
+            "language": "Dart",
+            "url": "https://github.com/zekkontro/youtube_cc",
+            "forks": 1
+        }
+    ],
+    "mediumBlogs": [],
+    "skills": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "REST API",
+        "Firebase",
+        "MongoDb",
+        "SQL",
+        "Figma",
+        "CyberSec"
+    ],
+    "aboutMeText": "Hi There! I'm Berat Kurt. I have been working in software development for more than 5 years. I have also been developing efficiency, ease of use and high-performance applications with Flutter for the last 3.5 years"
+}
